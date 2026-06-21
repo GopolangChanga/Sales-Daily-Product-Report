@@ -1,4 +1,4 @@
-# 1. Sales Daily Product Report — Power BI Dashboard
+# Sales Daily Product Report — Power BI Dashboard
 
 A daily operational sales dashboard built on the AdventureWorks dataset for sales managers, category managers, and demand planners.
 
@@ -87,35 +87,42 @@ adventureworks-sales-daily-report/
 
 <img width="317" height="100" alt="image" src="https://github.com/user-attachments/assets/11922331-aa9d-4617-a492-72a8be37bd2a" />
 
+
 |
 - KPI Card: Daily % Change
 
 <img width="305" height="107" alt="image" src="https://github.com/user-attachments/assets/c6441300-49be-4775-92d7-980493ad78ed" />
+
 
 |
 - KPI Card: Orders
 
 <img width="302" height="92" alt="image" src="https://github.com/user-attachments/assets/c12a28ca-21c0-4e18-b0ad-ebafbd4c247d" />
 
+
 |
 - 30-Day Sale Trend Line Chart
 
 <img width="1732" height="762" alt="image" src="https://github.com/user-attachments/assets/2f48e69c-dd66-4fd2-bf37-d58c2afacf1e" />
+
 
 |
 - Top 10 Products by Order Volume & Sales Clustered Bar Chart
 
 <img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/ddd9c5b2-81e9-414c-a622-594917d2a612" />
 
+
 |
 - Top 10 Products by Order Volume & Average Order Value Table
 
 <img width="612" height="447" alt="image" src="https://github.com/user-attachments/assets/d66ea090-0957-4ba7-b9bb-f1701e97835d" />
 
+
 |
 - Dynamic Report Date Indicator
 
 <img width="290" height="77" alt="image" src="https://github.com/user-attachments/assets/1ae6a573-4f35-477b-a417-5dab12d5712d" />
+
 
 ---
 
