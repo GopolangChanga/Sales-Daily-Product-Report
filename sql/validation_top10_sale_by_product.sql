@@ -6,7 +6,7 @@
    ============================================================ */
 
 SELECT TOP 10
-     [Date]
+     [BaseProductName] AS [ProductName]
     ,ROUND(SUM([TotalDue] * ([LineTotal] / LTperOrder)), 3) AS "TDueperProd_%"  
         -- Allocates each order's TotalDue proportionally to each 
         -- line item, based on that line's share of the order's 
