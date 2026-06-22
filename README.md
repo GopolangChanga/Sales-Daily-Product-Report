@@ -130,6 +130,8 @@ adventureworks-sales-daily-report/
 
 - Add sales breakdown by product category and sales territory
 - Build a companion executive summary report (weekly/monthly rollup vs. this daily operational view)
+- Add ETL queries to sql/ folder
+- Add power bi snowflake data model
 
 ---
 
