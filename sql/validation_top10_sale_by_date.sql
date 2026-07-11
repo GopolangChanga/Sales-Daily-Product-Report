@@ -8,7 +8,7 @@
 
 SELECT TOP 30
      [Date]
-    ,ROUND(SUM([TotalDue] * ([LineTotal] / LTperOrder)), 3) AS "TDueperProd_%"  
+    ,ROUND(SUM([TotalDue] * ([LineTotal] / LTperOrder)), 3) AS "TDueperProd"  
         -- Allocates each order's TotalDue proportionally to each 
         -- line item, based on that line's share of the order's 
         -- total LineTotal, then sums across the date
@@ -58,7 +58,7 @@ GROUP BY [Date]
 
 -- Show most recent dates first; within each date, 
 -- prioritize the highest TotalDue allocation share
-ORDER BY [Date] DESC, "TDueperProd_%" DESC
+ORDER BY [Date] DESC, "TDueperProd" DESC
 ;
 
 
